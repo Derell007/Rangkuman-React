@@ -29,6 +29,10 @@ function Pages(props) {
                   <li>{props.poin2}</li>
                   <li>{props.poin3}</li>
                   <li>{props.poin4}</li>
+                  <li>{props.poin5}</li>
+                  <li>{props.poin6}</li>
+                  <li>{props.poin7}</li>
+                  <li>{props.poin8}</li>
                 </ul>
               </div>
             </div>

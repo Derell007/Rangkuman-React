@@ -7,37 +7,37 @@ function Sidebar() {
       <h2>Articles</h2>
       <ol type="I">
         <li>
-          <a href="page.html">Pengenalan HTML</a>
+          <Link to="/Article1">Pengenalan HTML</Link>
         </li>
         <li>
-          <a href="page2.html">Struktur Dokumen HTML</a>
+          <Link to="/article2">Struktur Dokumen HTML</Link>
         </li>
         <li>
-          <a href="page3.html">Teks &amp; Formating</a>
+          <Link to="/article3">Teks &amp; Formating</Link>
         </li>
         <li>
-          <a href="page4.html">List</a>
+          <Link to="/article4">List</Link>
         </li>
         <li>
-          <a href="page5.html">Link (Hyperlink)</a>
+          <Link to="/article5">Link (Hyperlink)</Link>
         </li>
         <li>
-          <a href="page6.html">Gambar</a>
+          <Link to="/article6">Gambar</Link>
         </li>
         <li>
-          <a href="page7.html">Tabel</a>
+          <Link to="/article7">Tabel</Link>
         </li>
         <li>
-          <a href="page8.html">Formulir</a>
+          <Link to="/article8">Formulir</Link>
         </li>
         <li>
-          <a href="page9.html">Elemen Semantik HTML5</a>
+          <Link to="/article9">Elemen Semantik HTML5</Link>
         </li>
         <li>
-          <a href="page10.html">Multimedia</a>
+          <Link to="/article10">Multimedia</Link>
         </li>
         <li>
-          <a href="page11.html">Komentar</a>
+          <Link to="/article11">Komentar</Link>
         </li>
       </ol>
     </div>

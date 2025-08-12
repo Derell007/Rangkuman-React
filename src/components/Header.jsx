@@ -15,7 +15,7 @@ function Header() {
             <Link to="/">HOME</Link>
           </a>
           <a>
-            <Link to="/article">ARTICLE</Link>
+            <Link to="/article1">ARTICLE</Link>
           </a>
           <a href="#">ACTIVITY</a>
         </nav>
