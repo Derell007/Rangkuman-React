@@ -1,0 +1,68 @@
+body {
+  font-family: "Kanit", sans-serif;
+  margin: 0;
+  background-color: #eeeeee;
+  color: #222;
+}
+
+main {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+}
+.summary-container {
+  background-color: #222831;
+  border: 2px solid #00adb5;
+  border-radius: 20px;
+  padding: 50px 40px;
+  margin: 40px auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+  max-width: 1000px;
+  max-height: 500px;
+  color: #fff;
+}
+
+.summary-logo {
+  width: 450px;
+  height: auto;
+}
+
+.summary-text h1 {
+  margin: 0;
+  font-size: 60px;
+  font-weight: bold;
+}
+
+.summary-text h1 span {
+  color: #00adb5;
+}
+
+.summary-text p {
+  margin: 5px 0 20px 0;
+  font-size: 18px;
+  color: #ccc;
+}
+
+.summary-buttons a {
+  text-decoration: none;
+  padding: 10px 18px;
+  border-radius: 20px;
+  font-size: 0.9rem;
+  transition: 0.3s ease;
+  margin-right: 10px;
+  display: inline-block;
+}
+
+.article-btn {
+  background-color: transparent;
+  border: 2px solid #00adb5;
+  color: #00adb5;
+}
+
+.article-btn:hover {
+  background-color: #00adb5;
+  color: #fff;
+}
